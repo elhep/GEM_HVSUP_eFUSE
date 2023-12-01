@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=Standard_MAX14434
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother DCP-1610W series
+TargetPrinter=Brother DCP-L2540DN series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -277,7 +277,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\GEM\GEM_AVD_eFuse\HV_channel\Project Outputs for HV-channel\
+OutputFilePath3=D:\Dropbox\DESIGNS\GEM\GEM_HV_SUPPLY\eFuse\HV_channel\Project Outputs for HV-channel\
 ReleaseManaged3=0
 OutputBasePath3=Project Outputs for HV-channel\
 OutputPathMedia3=
@@ -331,7 +331,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\GEM\GEM_AVD_eFuse\HV_channel\Project Outputs for HV-channel\DIO-SMA.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\GEM\GEM_AVD_eFuse\HV_channel\Project Outputs for HV-channel\
+RelativeOutputPath3=D:\Dropbox\DESIGNS\GEM\GEM_HV_SUPPLY\eFuse\HV_channel\Project Outputs for HV-channel\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
